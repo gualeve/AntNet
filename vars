@@ -1,0 +1,176 @@
+# Created by Octave 4.0.3, Mon Jan 09 13:25:46 2017 BRST <adalberto@debpc>
+# name: COLS
+# type: scalar
+8
+
+
+# name: ROWS
+# type: scalar
+8
+
+
+# name: N
+# type: scalar
+1
+
+
+# name: S
+# type: scalar
+2
+
+
+# name: E
+# type: scalar
+3
+
+
+# name: W
+# type: scalar
+4
+
+
+# name: C
+# type: scalar
+5
+
+
+# name: ND
+# type: scalar
+6
+
+
+# name: HS
+# type: scalar
+5
+
+
+# name: MAX_DATA_BUFF
+# type: scalar
+8
+
+
+# name: MAX_ANT_BUFF
+# type: scalar
+5
+
+
+# name: PKG_SIZE
+# type: scalar
+8
+
+
+# name: pkt
+# type: scalar
+11
+
+
+# name: start
+# type: scalar
+12
+
+
+# name: stop
+# type: scalar
+13
+
+
+# name: id
+# type: scalar
+1
+
+
+# name: flit_count
+# type: scalar
+14
+
+
+# name: ALPHA
+# type: scalar
+0.5
+
+
+# name: port
+# type: scalar
+2
+
+
+# name: free
+# type: scalar
+3
+
+
+# name: locked
+# type: scalar
+4
+
+
+# name: congestion
+# type: scalar
+5
+
+
+# name: prev_free
+# type: scalar
+6
+
+
+# name: hops
+# type: scalar
+9
+
+
+# name: unrouted
+# type: scalar
+10
+
+
+# name: dst
+# type: scalar
+4
+
+
+# name: src
+# type: scalar
+3
+
+
+# name: tile
+# type: scalar
+2
+
+
+# name: out_port
+# type: scalar
+6
+
+
+# name: in_port
+# type: scalar
+5
+
+
+# name: status
+# type: scalar
+7
+
+
+# name: route
+# type: scalar
+11
+
+
+# name: charge
+# type: scalar
+8
+
+
+# name: FORWARD
+# type: scalar
+1
+
+
+# name: BACKWARD
+# type: scalar
+2
+
+
